@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-strong-password-generator/static/css/main.d5a7d574.css",
+    "main.js": "/React-strong-password-generator/static/js/main.1fcb3040.js",
+    "static/js/787.4d581315.chunk.js": "/React-strong-password-generator/static/js/787.4d581315.chunk.js",
+    "index.html": "/React-strong-password-generator/index.html",
+    "main.d5a7d574.css.map": "/React-strong-password-generator/static/css/main.d5a7d574.css.map",
+    "main.1fcb3040.js.map": "/React-strong-password-generator/static/js/main.1fcb3040.js.map",
+    "787.4d581315.chunk.js.map": "/React-strong-password-generator/static/js/787.4d581315.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5a7d574.css",
+    "static/js/main.1fcb3040.js"
+  ]
+}
